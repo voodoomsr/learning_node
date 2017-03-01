@@ -1,3 +1,4 @@
+//EDITED
 var maxTime = 1000;
 
 var evenDoubler = function(v, callback){
